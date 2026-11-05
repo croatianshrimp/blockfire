@@ -37,12 +37,6 @@ Features are still being refined, and visual quality varies across the game.
 - Correct building placement on uneven ground.
 - Improved chest and loot-item models.
 
-## Planned / Backlog
-
-- Further improvements to blocky building, vehicle, player, and bot models.
-- A complete C130 flyover at the start of every match, including consecutive rounds.
-- Larger C130 crash explosions and longer-lasting smoke.
-
 ## Development Status
 
 BlockFire is actively being developed with assistance from Claude. Expect bugs, placeholder assets, and changes as systems are improved.
