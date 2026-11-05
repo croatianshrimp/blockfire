@@ -45,4 +45,4 @@ Planned features describe the current direction, not guaranteed release commitme
 
 ## Asset Credits
 
-Third-party assets retain their respective licenses. Credits and required attribution will be documented as assets are integrated.
+Third-party assets retain their respective licenses. Credits and required attribution will be documented as more assets are integrated.
